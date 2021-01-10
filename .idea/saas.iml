@@ -114,6 +114,7 @@
       <excludeFolder url="file://$MODULE_DIR$/backend/vendor/myclabs/deep-copy" />
       <excludeFolder url="file://$MODULE_DIR$/backend/vendor/phpunit/php-timer" />
       <excludeFolder url="file://$MODULE_DIR$/backend/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/laravel/sanctum" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d607914e-b5f6-43f2-97c2-2ec2d87d1293" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/saas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/saas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/backend/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/config/cors.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/config/cors.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +131,7 @@
       <path value="$PROJECT_DIR$/backend/vendor/myclabs/deep-copy" />
       <path value="$PROJECT_DIR$/backend/vendor/phpunit/php-timer" />
       <path value="$PROJECT_DIR$/backend/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/backend/vendor/laravel/sanctum" />
     </include_path>
   </component>
   <component name="ProjectId" id="1mqQQ4JHJg6e7vW4iDU7LTmxhcN" />
@@ -155,7 +162,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610218626598</updated>
       <workItem from="1610218630301" duration="1185000" />
-      <workItem from="1610271935216" duration="7638000" />
+      <workItem from="1610271935216" duration="9050000" />
     </task>
     <servers />
   </component>
